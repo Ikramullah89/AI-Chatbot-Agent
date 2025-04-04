@@ -40,8 +40,8 @@ pip install -r requirements.txt
 
 ### Start the FastAPI Backend
 ```bash
-cd backend
-uvicorn main:app --host 127.0.0.1 --port 9999 --reload
+uvico
+rn backend:app --host 127.0.0.1 --port 9999 --reload
 ```
 
 ### Start the Streamlit Frontend
